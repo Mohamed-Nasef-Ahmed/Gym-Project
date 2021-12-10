@@ -1,2 +1,2 @@
 # Gym-Project
-my first project
+Html_And_CSS_Project
